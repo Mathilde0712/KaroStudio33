@@ -23,6 +23,7 @@ h1 {
     font-size: 40px;
     color: rgb(199, 179, 154);
     text-align: center;
+    margin-top: -40px;
     font-family: "Dancing Script", sans-serif;
   }
   h2 {
